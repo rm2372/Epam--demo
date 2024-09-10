@@ -5,4 +5,5 @@ student
   
 1 DPS
 2 JAMMU
-3 non fast forward approch
+3 non fast forward approach
+4 conf
